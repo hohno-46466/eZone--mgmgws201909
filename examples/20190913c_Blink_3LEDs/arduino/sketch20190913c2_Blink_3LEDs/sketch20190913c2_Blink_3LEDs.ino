@@ -1,5 +1,5 @@
 //
-// sketch20190913c_Blink_3LEDs.ino
+// sketch20190913c2_Blink_3LEDs.ino
 //
 
 // Written by @hohno_at_kuimc
@@ -13,6 +13,8 @@
 // 初期設定
 
 void setup() {
+
+	Serial.begin(57600);
 
   pinMode(LED_BUILTIN, OUTPUT);
 
@@ -42,6 +44,8 @@ void loop() {
   digitalWrite(10, HIGH);
   digitalWrite(11, HIGH);
 
+	Serial.println("ON");
+
   // 200ミリ秒待つ
   delay(200);
 
@@ -53,7 +57,9 @@ void loop() {
   digitalWrite(10, LOW);
   digitalWrite(11, LOW);
 
-  // 200ミリ秒待つ
+	Serial.println("OFF");
+
+	// 200ミリ秒待つ
   delay(200);
 
 }

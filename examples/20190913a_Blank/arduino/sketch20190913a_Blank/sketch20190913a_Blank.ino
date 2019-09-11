@@ -1,5 +1,7 @@
 //
-// sketch_20190913_xxx.ino
+// sketch20190913a_Blank.ino
+//
+
 //
 // Written by @hohno_at_kuimc
 //
@@ -12,14 +14,12 @@
 
 void setup() {
   // put your setup code here, to run once:
-
 }
 
 // ---------------------------------------------------------
 
 void loop() {
   // put your main code here, to run repeatedly:
-
 }
 
 // ---------------------------------------------------------
