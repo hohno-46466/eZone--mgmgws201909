@@ -45,8 +45,8 @@ Monograming workshop 20190913 at MyTechlab
      24 directories, 14 files (Thu Jul 14 04:09:19 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/eZone--mgmgws201909
+Note: URL = https://github.com/hohno-46466/eZone--mgmgws201909
 
-Note: url = git@github.com:hohno-46466/eZone--mgmgws201909.git
+Note: URL = git@github.com:hohno-46466/eZone--mgmgws201909.git
 
 -EOF-
