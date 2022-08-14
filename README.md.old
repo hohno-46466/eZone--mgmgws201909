@@ -42,7 +42,7 @@ Monograming workshop 20190913 at MyTechlab
          └──  20190913k_kotoriotoko/
              └──  README.md
      
-     24 directories, 14 files (Thu Jul 14 04:09:19 JST 2022)
+     24 directories, 14 files (Fri Aug 12 22:01:09 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgmgws201909
